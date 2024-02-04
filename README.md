@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying MSCS in Boston University  
 🌱 I’m currently learning web back-end technology  
-🤔 I’m looking for help with Software Enginner internship opportunity
+🤔 I’m looking for help with Software Engineer internship opportunity
 
 <!--
 **jianxie134/jianxie134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
