@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently studying MSCS in Boston University
-
 🌱 I’m currently learning web back-end technology
-
 🤔 I’m looking for help with internship opportunity 
 
 <!--
