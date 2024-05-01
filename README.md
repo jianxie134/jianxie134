@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently studying MSCS in Boston University  
-🌱 I’m currently building web apps using backend technologies
+🌱 I’m currently building web apps using backend technologies  
 🤔 I’m looking for Software Engineer internships opportunity
 
 <!--
